@@ -71,11 +71,16 @@ a{
 }
 
 
-.menu:link{color:white; text-decoration: none}
+.menu:link{color:white; text-decoration: none;}
 .menu:visited{color: white; text-decoration: none;}
-.menu:hover{color: white; text-decoration: none; background: #e7b200;}
+.menu:hover{color: white; text-decoration: none; background: #e7b200; }
 .menu:active{color: white; text-decoration: none;}
 
+
+.menu2:link{color:white; text-decoration: none}
+.menu2:visited{color: white; text-decoration: none;}
+.menu2:hover{color: white; text-decoration: none; background: #e7b200;}
+.menu2:active{color: white; text-decoration: none;}
 section{
 	width:730px;
 	height:1300px;
