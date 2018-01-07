@@ -101,7 +101,7 @@ aside{
 
 footer{
 	width: 1200px;
-	height: 200px;
+	height: 250px;
 	float: left;
 	background: black;
 	color: white;
@@ -131,8 +131,10 @@ h5{
 }
 
 h6{
-	padding: 8px;
+	padding: 10px;
 	color: white;
+	font-size: 18px;
+
 }
 
 #logo{
