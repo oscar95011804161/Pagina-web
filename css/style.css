@@ -55,6 +55,8 @@ ul {
 	padding-top: 4px; 
 }
 
+
+
 li{
 
    float:left;
@@ -77,10 +79,65 @@ a{
 .menu:active{color: white; text-decoration: none;}
 
 
-.menu2:link{color:white; text-decoration: none}
-.menu2:visited{color: white; text-decoration: none;}
-.menu2:hover{color: white; text-decoration: none; background: #e7b200;}
-.menu2:active{color: white; text-decoration: none;}
+.submenu:link{color:white; text-decoration: none;}
+.submenu:visited{color: white; text-decoration: none;}
+.submenu:hover{color: white; text-decoration: none; background: #E74C3C  ; }
+.submenu:active{color: white; text-decoration: none;}
+
+
+
+
+
+/* submenu 
+
+.submenu{
+
+	position: absolute;
+	background: #004669;
+}
+
+.submenu li a{
+
+	display: block;
+    padding: 15px ;
+    color: #e7b200;
+    font-family: '_Open sans';
+    text-decoration: none;
+
+}
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 section{
 	width:730px;
 	height:1300px;
