@@ -1,0 +1,59 @@
+
+
+
+Normalize:
+
+es una libreria de normalizacion basada en ccs llamada normalize
+lo que hace es que establecer un reset o normalizacion de los estilos
+que se cargan por el ordenador para que siempre que el navegador cargue
+mi pagina web o mio sitio web cargue los estilos que yo he definido y
+no los que el va a cargar
+
+
+Js:
+
+son archivos de tipo javascript
+
+ermiten establecer aspectos de normalización en la pagina web
+mas que todo a nivel de estilo de css.
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<meta charset="UTF-8">
+
+permite que se reconoscan ññññ y ´´´´ en mi pagina web
+
+
+
+<meta content="oscar v" name="author">
+
+estas etiquetas Meta las usan los motores de busqueda
+para anexar informacion en los listados de busqueda
+que se hacen por ejemplo cuando dentras a google.com
+y escribes un nombre o una direccion o un tema entonces 
+una de las condiciones para ingresar a esta pagina es que 
+yo escriba por ejemplo pagina web de oscar v entonces el
+buscaria las paginas cuyo nombre o contenido den nombre
+o autor correspondan a oscar v.
+
+
+<meta content=" CONTENIDO: esta pagina esta diseñada para practicar" name ="description">
+
+esta etiqueta se usa para manejar la descripcion de 
+la pagina como tal cual es la descripcion y para que va a servir.
+
+<meta content="Gameplays, tutoriales, juegos, trabajos, programas" name="keywords">
+
+esta etiqueta esta relacionada con las palabras claves para cuando cuando una persona digite gameplays valla a esta pagina.
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<link rel="stylesheet" href="/css/normalize.css">
+   para cargar el normalize
+
+<link rel="stylesheet" href="/css/style.css">
+   para cargar la hoja de estilo
+
+
+
+

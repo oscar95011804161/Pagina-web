@@ -1,0 +1,162 @@
+#contenedor{
+
+
+	width: 1200px;
+	height:auto;
+	margin:auto;
+	position: relative;
+}
+
+body{
+	background: white;
+
+}
+header{
+
+	width: 1200px;
+	height: 120px;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	margin-top: 20px; 
+	
+}
+
+h1{
+    color: #004669;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h2{
+    color: #004669;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+nav{
+	width: 1200px;
+	height: 50px;
+	background: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px; 
+	border-style:solid;
+	border-color: #004669;
+}
+
+ul {
+
+	margin: auto;
+	padding-top: 4px; 
+}
+
+li{
+
+   float:left;
+   list-style-type: none;
+   
+   margin: 5px;
+
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+
+
+.menu:link{color:white; text-decoration: none}
+.menu:visited{color: white; text-decoration: none;}
+.menu:hover{color: white; text-decoration: none; background: #e7b200;}
+.menu:active{color: white; text-decoration: none;}
+
+section{
+	width:730px;
+	height:1300px;
+	float:left;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+}
+
+aside{
+	width:435px;
+	height:1300px;
+	float:left;
+	border-style:solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+footer{
+	width: 1200px;
+	height: 200px;
+	float: left;
+	background: black;
+	color: white;
+	border-style:solid;
+	border-color: black;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 20px;
+	
+}
+
+p{
+	padding: 10px;
+	text-align: justify;
+}
+
+h3{
+	padding: 10px;
+}
+
+h4{
+	padding: 10px;
+}
+
+h5{
+	padding: 10px;
+}
+
+#logo{
+	padding: 30px;
+	width: 500px;
+	height: 400px;
+}
+
+#footer{
+
+	padding: 30px;
+	font-size: 40px;
+	text-decoration: bold; 
+}
+
+#video1{
+	padding: 30px;
+
+
+
+}
+
+#video2{
+	padding: 30px;
+
+}	
+
+#crash_logo{
+	padding: 30px;
+	width: 500px;
+	height: 400px;
+}
