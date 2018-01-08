@@ -42,6 +42,7 @@ nav{
 	width: 1200px;
 	height: 50px;
 	background: #004669;
+
 	border-top-right-radius: 10px;
 	border-bottom-left-radius: 10px;
 	margin-bottom: 10px; 
@@ -78,12 +79,17 @@ a{
 .menu:hover{color: white; text-decoration: none; background: #e7b200; }
 .menu:active{color: white; text-decoration: none;}
 
+/*background:#004669; */
 
 .submenu:link{color:white; text-decoration: none;}
 .submenu:visited{color: white; text-decoration: none;}
-.submenu:hover{color: white; text-decoration: none; background: #E74C3C  ; }
+.submenu:hover{color: white; text-decoration: none; background: #004669; }
 .submenu:active{color: white; text-decoration: none;}
 
+.submenu2:link{color:white; text-decoration: none;}
+.submenu2:visited{color: white; text-decoration: none;}
+.submenu2:hover{color: white; text-decoration: none; background: #e7b200; }
+.submenu2:active{color: white; text-decoration: none;}
 
 
 
