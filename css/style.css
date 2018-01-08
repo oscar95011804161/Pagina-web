@@ -21,22 +21,9 @@ header{
 	border-bottom-left-radius: 10px;
 	margin-bottom: 20px;
 	margin-top: 20px; 
-	
 }
 
-h1{
-    color: #004669;
-    font-size: 30px;
-    text-align: center;
 
-}
-
-h2{
-    color: #004669;
-    font-size: 20px;
-    text-align: center;
-
-}
 
 nav{
 	width: 1200px;
@@ -67,6 +54,8 @@ li{
 
 }
 
+
+
 a{
 	text-decoration: none;
 	font-size: 30px;
@@ -88,20 +77,24 @@ a{
 
 
 
+
+
+
 section{
 	width:730px;
-	height:1300px;
+	height:1320px;
 	float:left;
 	border-style:solid;
 	border-color: #004669;
 	border-top-right-radius: 10px;
 	border-bottom-left-radius: 10px;
 	margin-bottom: 20px;
+
 }
 
 aside{
 	width:435px;
-	height:1300px;
+	height:1320px;
 	float:left;
 	border-style:solid;
 	border-color: #004669;
@@ -113,7 +106,8 @@ aside{
 
 footer{
 	width: 1200px;
-	height: 250px;
+	height: 150px;
+	
 	float: left;
 	background: black;
 	color: white;
@@ -123,11 +117,25 @@ footer{
 	border-bottom-left-radius: 10px;
 	margin-bottom: 20px;
 	
+	
 }
 
 p{
 	padding: 10px;
 	text-align: justify;
+}
+
+h1{
+    color: #04B45F;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'showcard gothic';
+}
+
+h2{
+    color: #004669;
+    font-size: 20px;
+    text-align: center;
 }
 
 h3{
@@ -136,6 +144,7 @@ h3{
 
 h4{
 	padding: 10px;
+
 }
 
 h5{
@@ -143,11 +152,13 @@ h5{
 }
 
 h6{
+ 	
+	font-family: 'showcard gothic';
 	padding: 10px;
-	color: white;
-	font-size: 18px;
-
+	font-size: 20px;
 }
+
+
 
 #logo{
 	padding: 30px;
@@ -157,13 +168,14 @@ h6{
 
 #footer{
 
-	padding: 30px;
-	font-size: 40px;
+	padding: 10px;
+	font-size: 25px;
 	text-decoration: bold; 
 }
 
 #video1{
 	padding: 30px;
+	
 
 }
 
@@ -177,3 +189,5 @@ h6{
 	width: 500px;
 	height: 400px;
 }
+
+
