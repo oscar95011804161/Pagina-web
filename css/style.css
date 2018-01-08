@@ -88,58 +88,6 @@ a{
 
 
 
-
-
-/* submenu 
-
-.submenu{
-66663
-	position: absolute;
-	background: #004669;
-}
-
-.submenu li a{
-
-	display: block;
-    padding: 15px ;
-    color: #e7b200;
-    font-family: '_Open sans';
-    text-decoration: none;
-
-}
-
-*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 section{
 	width:730px;
 	height:1300px;
@@ -216,8 +164,6 @@ h6{
 
 #video1{
 	padding: 30px;
-
-
 
 }
 
