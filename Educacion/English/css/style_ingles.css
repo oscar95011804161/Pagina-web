@@ -22,13 +22,15 @@ header{
 
 h1{
 	color: #004669;
-	font-size: 25px;
+	font-size: 30px;
 	text-align: center;
+	font-family: 'Broadway';
+	background: #008000: 
 }
 
 h2{
 	color: #004669;
-	font-size: 15px;
+	font-size: 20px;
 	text-align: center;	
 }
 
